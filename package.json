@@ -1,0 +1,15 @@
+{
+  "name": "jest-restore-mocks",
+  "version": "1.0.0",
+  "description": "A reproduction for a regression in Jest documentation",
+  "main": "index.js",
+  "scripts": {
+    "resetMocks": "jest --resetMocks",
+    "restoreMocks": "jest --restoreMocks"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
